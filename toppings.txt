@@ -1,0 +1,41 @@
+
+
+----------------------veg------------------
+
+Mushrooms
+Onions
+cheese
+Black Olives
+Green Peppers
+Red Peppers
+Pineapple
+Spinach
+Paneer
+Basil
+Garlic Powder
+Tomato
+Jalepeno
+Artichoke
+Bannana Peppers
+Habenero Peppers
+Egg plant
+Avocado
+Corn
+------------------non-veg------------------
+Pepperoni
+Sausage
+Bacon
+Chicken
+Beef
+Anchovy
+Shrimp
+Egg
+
+
+
+------------------Flav-Blast----------------
+BBQ Sauce
+Sriracha
+Chipotle
+House Spice
+Classic Ketchup
