@@ -12,26 +12,15 @@ Pineapple
 Spinach
 Paneer
 Basil
-Garlic Powder
 Tomato
 Jalepeno
 Artichoke
 Bannana Peppers
-Habenero Peppers
-Egg plant
-Avocado
 Corn
+Baby Corn
 ------------------non-veg------------------
-Pepperoni
-Sausage
-Bacon
 Chicken
-Beef
-Anchovy
-Shrimp
 Egg
-
-
 
 ------------------Flav-Blast----------------
 BBQ Sauce
@@ -39,3 +28,6 @@ Sriracha
 Chipotle
 House Spice
 Classic Ketchup
+
+-------------------Free Addon--------------------
+Garlic Powder
